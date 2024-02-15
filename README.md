@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple Remix.run app that fetches data to display in a table. I used Vercel's vo.dev to generate the component for the table to quickly get a decent looking table (mainly because I wanted an excuse to try out shadcn and v0).
+This is a simple Remix.run app that fetches data to display in a table. I used Vercel's vo.dev to generate the component for the table to quickly get a decent looking table, mainly because I wanted an excuse to try out shadcn and v0. I recommend checking it out, it was surprisingly easy, fast and the output was great.
 
 ## Development
 
