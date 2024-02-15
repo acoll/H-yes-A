@@ -16,7 +16,7 @@ npm run dev
 
 ## TODO / Improvements
 
-- Better handle loading data errors
+- Better handle data loading errors
   - what if the API is down?
   - what if the API data shape changes?
 - `logic.ts` has a bunch of hard-coded values that could be moved to config or pulled from the API
