@@ -6,6 +6,8 @@ This is a simple Remix.run app that fetches data to display in a table. I used V
 
 ## Development
 
+First create a .env and put the API_URL and API_KEY in it.
+
 From your terminal:
 
 ```sh
